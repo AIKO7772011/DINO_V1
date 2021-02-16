@@ -1,3 +1,8 @@
+Site URL:
+https://aiko7772011.github.io/DINO_V1/
+
+
+
 #11 Уроки Git+GitHub - Бесплатный хостинг Github Pages
 https://www.youtube.com/watch?v=K7m1q_-chqo
 
@@ -43,4 +48,10 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
+
+https://stackoverflow.com/questions/34400272/visual-studio-code-always-asking-for-git-credentials
+
+git remote set-url origin https://<USERNAME>:<PASSWORD>@bitbucket.org/path/to/repo.git
+git remote set-url origin https://AIKO7772011:Zikirokityn11iman@github.com/AIKO7772011/DINO_V1.git
+git config --get remote.origin.url
 ----------------------------------------------------------------------------
